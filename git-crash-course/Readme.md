@@ -203,7 +203,7 @@ git config --global user.email johndoe@example.com
 
 ## Log
 
-git log will show recent git commits to the git tree
+```git log``` will show recent git commits to the git tree
 
 ## Push
 
